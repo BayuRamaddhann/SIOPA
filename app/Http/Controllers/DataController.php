@@ -14,7 +14,7 @@ class DataController extends Controller
      */
     public function index()
     {
-        return view('halaman.dua')
+        return view('detail');
     }
 
     /**
